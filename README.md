@@ -4,7 +4,7 @@
 
 
 
-![Digital Grassroots.jpg]({{site.baseurl}}/Digital Grassroots.jpg)
+![Digital Grassroots.jpg](https://github.com/DigitalGrassroots/Digital-Grassroots/blob/master/Digital%20Grassroots.jpg)
 
 
 At Digital Grassroots, we are passionate about the core values of the Internet and we strive towards ensuring openness, security, privacy, Web literacy and decentralization of the internet.
