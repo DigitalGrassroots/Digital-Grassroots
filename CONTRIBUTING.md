@@ -1,4 +1,4 @@
-# Contributing to [Digital Grassroots]
+# Contributing to Digital Grassroots
 
 
 >Welcome and Thank you for your interest in contributing to (Digital Grassroots)[https://www.digitalgrassroots.org] :tada:! 
@@ -17,7 +17,7 @@
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](https://github.com/DigitalGrassroots/Digital-Grassroots/blob/master/code_of_conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [digra@digitalgrassroots.org].
+This project adheres to a [code of conduct](https://github.com/DigitalGrassroots/Digital-Grassroots/blob/master/code_of_conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to digra@digitalgrassroots.org.
 
 ## What we're working on
 
@@ -50,4 +50,7 @@ and our Social Media Channels using the hashtags #mozsprint #DigitalGrassroots #
 [Instagram](https://www.instagram.com/digitalgrassroots/?hl=en)
 
 Also feel free to drop us an e-mail : digra@digitalgrassroots.org
+
+
+THANK YOU
 
