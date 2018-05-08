@@ -44,7 +44,7 @@ Through our departments we:-
 ### **Who Are We?**
 
 We are a diverse team of youth leaders from 10 countries and 3 continents who are passionate about addressing various Internet Governance Issues on a global scale.
-The founders of Digital Grassroots are a group of Fellows from Internet Society (ISOC) 2017 Youth at IGF Program. The [**Internet Governance Forum**](https://www.intgovforum.org/multilingual/) is a multistakeholder meeting where stakeholders discuss policies and issues relevant to the internet. There is more information about the team [**here**](https://www.digitalgrassroots.org/p/management.html). :two_women_holding_hands: :two_women_holding_hands: :two_women_holding_hands: :two_men_holding_hands:
+The founders of Digital Grassroots are a group of Fellows from Internet Society (ISOC) 2017 Youth at IGF Program. The [**Internet Governance Forum**](https://www.intgovforum.org/multilingual/) is a multistakeholder meeting where stakeholders discuss policies and issues relevant to the internet. There is more information about the team [**here**](https://www.digitalgrassroots.org/p/management.html). :two_women_holding_hands::two_women_holding_hands::two_women_holding_hands::two_men_holding_hands:
 
 
 ### **What do We need?**
