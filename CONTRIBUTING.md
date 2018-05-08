@@ -1,12 +1,12 @@
 # Contributing to [Digital Grassroots]
 
 
->Welcome and Thank you for your interest in contributing to [Digital Grassroots] :tada:! 
+>Welcome and Thank you for your interest in contributing to (Digital Grassroots)[https://www.digitalgrassroots.org] :tada:! 
 
 >At Digital Grassroots, we are passionate about the core values of the Internet and we strive towards ensuring openness, security, privacy, Web literacy and decentralization of the internet. We have a goal of increasing digital literacy amongst the young population (14 - 29 years) globally in order to promote their activity as stakeholders in the Internet ecosystem at the most basic levels.
 
 
->Please take few momkent to review his document is a set of guidelines for contributing to [Digital Grassroots] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>Please take few momkent to review his document is a set of guidelines for contributing to (Digital Grassroots)[https://www.digitalgrassroots.org] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 
 * [Participation guidelines](#participation-guidelines)
@@ -22,7 +22,7 @@ This project adheres to a [code of conduct](https://github.com/DigitalGrassroots
 ## What we're working on
 
 
-> Take a look at the issues in our [current milestone](https://github.com/DigitalGrassroots/Digital-Grassroots/issues) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+> Take a look at the issues in our [current milestone](https://github.com/DigitalGrassroots/Digital-Grassroots/issues) or head to our [good first bug](https://github.com/DigitalGrassroots/Digital-Grassroots/issues/10) to get started! :wink: :wink:
 
 
 ## How to submit changes
