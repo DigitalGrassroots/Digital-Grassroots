@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+#nav-main{
+    background-color: white;
+   /* background: rgba(63, 151, 151, 0.6);*/
+}
+#homenav{
+    margin-left: 3em;
+}
+
+#cover {
+    background: url('../images/plans-background.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 1.4rem;
+	background-attachment: fixed;
+	margin-top: 5rem;
+}
+#cover-caption {
+    width: 100%;
+}
